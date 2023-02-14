@@ -5,5 +5,7 @@
 
  1. Even
  2. Odd
- 3. 
+ 3. How Many Evens
+ 4. How Many Odds
+ 
  
